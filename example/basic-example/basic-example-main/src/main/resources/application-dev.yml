@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+plugin:
+  runMode: dev
+  pluginPath: D:\develop\workspace\springboot-plugin-framework-parent\example\basic-example\plugins
+  pluginConfigFilePath:
